@@ -1,0 +1,5 @@
+exports.Block = require('./Block')
+exports.Wallet = require('./Wallet')
+exports.Exchange = require('./Exchange')
+exports.Blockchain = require('./Blockchain')
+exports.Transaction = require('./Transaction')
